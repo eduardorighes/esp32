@@ -12,7 +12,7 @@ set -e
 
 if [ -z ${PROJECTS_DIR} ]
 then
-	PROJECTS_DIR="${HOME}/projects/esp32"
+	PROJECTS_DIR="${HOME}/projects/esp32-tools"
 fi
 
 step()
